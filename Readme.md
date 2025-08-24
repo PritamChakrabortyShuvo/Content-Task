@@ -122,7 +122,9 @@ This table offers a professional and in depth financial analysis of the five lea
 | **Mir Cloud**       | USD ($)              | Primarily offers custom quotes, but has some published prices. | Plan 1: 2 vCPU, 4 GB RAM, 30 GB Storage<br>Plan 2: 4 vCPU, 8 GB RAM, 50 GB Storage<br>Plan 3: 8 vCPU, 16 GB RAM, 80 GB Storage       | N/A                                                       | N/A                                                                                                                                                                                                                   |
 | **Pico Cloud**      | N/A                  | Transparent, fixed monthly pricing.                            | Plan 1: 2 vCPU, 4 GB RAM, 30 GB Storage<br>Plan 2: 4 vCPU, 8 GB RAM, 50 GB Storage<br>Plan 3: 8 vCPU, 16 GB RAM, 80 GB Storage       | N/A                                                       | N/A                                                                                                                                                                                                                   |
 
-**_Note_** : It is important to note that Brilliant Cloud's VPS plans are based on plans with specific dedicated storage. In contrast to bespoke plans in the table above, Brilliant Cloud usually starts at at least 50 GB of storage and then moves up in fixed units (50 GB, 100 GB, etc). As such, there is no 30GB plan for users.
+**_Note 01_** : It is important to note that Brilliant Cloud's VPS plans are based on plans with specific dedicated storage. In contrast to bespoke plans in the table above, Brilliant Cloud usually starts at at least 50 GB of storage and then moves up in fixed units (50 GB, 100 GB, etc). As such, there is no 30GB plan for users.
+
+**_Note 02_** : Cloud Service Providers like Pico Cloud and Mir Cloud do not have publicly listed pricing. Their costs are typically provided on a per quotation basis for specific projects.
 
 ## Conclusion
 
