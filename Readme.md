@@ -52,7 +52,7 @@ This article will take you on an exciting journey through Bangladesh's cloud lan
 1. **Comprehensive IaaS Offerings :** Brilliant Cloud provides a strong set of Infrastructure as a Service (IaaS) options. This includes Virtual Machines with different types of storage like SAS, SSD and NVMe. They also offer Load Balancers and Simple Storage Service (S3) like AWS for object storage. They also provide Backup as a Service (BaaS) and Storage as a Service (StaaS).
 2. **Geographic Redundancy :** Brilliant Cloud offers geo redundant services. That means their infrastructure is designed to be highly available with a fast disaster recovery mechanism.
 3. **24/7 Local Support :** Brilliant Cloud provides 24/7 customer support which is a key selling point for businesses that need prompt assistance in their local language.
-4. **Flexible Currency Options : ** Offers a notable advantage by supporting both BDT and USD for its pricing, which provides flexibility for the users.
+4. **Flexible Currency Options :** Offers a notable advantage by supporting both BDT and USD for its pricing, which provides flexibility for the users.
 
 ### Cons of Brilliant Cloud
 
