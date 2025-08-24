@@ -123,3 +123,7 @@ This table offers a professional and in depth financial analysis of the five lea
 | **Pico Cloud**      | N/A                  | Transparent, fixed monthly pricing.                            | Plan 1: 2 vCPU, 4 GB RAM, 30 GB Storage<br>Plan 2: 4 vCPU, 8 GB RAM, 50 GB Storage<br>Plan 3: 8 vCPU, 16 GB RAM, 80 GB Storage       | N/A                                                       | N/A                                                                                                                                                                                                                   |
 
 **_Note_** : It is important to note that Brilliant Cloud's VPS plans are based on plans with specific dedicated storage. In contrast to bespoke plans in the table above, Brilliant Cloud usually starts at at least 50 GB of storage and then moves up in fixed units (50 GB, 100 GB, etc). As such, there is no 30GB plan for users.
+
+## Conclusion
+
+Software as a Service market in Bangladesh is growing, where global giants such as AWS, Google Cloud, Microsoft Azure provide abundant computing resources, though local Currency issues and data sovereignty challenges exists. Local providers like Tenbyte, Robi Cloud, and Pico Cloud address local requirements, providing low latency and data sovereignty, with advanced services such as kubernetes. With more competitors, the future seems bright, offering better services and looser regulation to encourage businesses to invest
